@@ -1,2 +1,2 @@
 # learn
-学习git
+git 初步认识
